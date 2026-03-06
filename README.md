@@ -1,4 +1,4 @@
-# 🚙 Full Throttle Offroad Truck
+# Full Throttle Offroad Truck
 
 <div align="center"> <h4>Conquer wild hills, impossible jumps, and crazy tracks in a physics-powered offroad truck adventure.</h4></div>
 
