@@ -1,8 +1,9 @@
 # 🚙 Full Throttle Offroad Truck
 
-> **Conquer wild hills, impossible jumps, and crazy tracks in a physics-powered offroad truck adventure.**
+<div align="center"> <h4>Conquer wild hills, impossible jumps, and crazy tracks in a physics-powered offroad truck adventure.</h4></div>
 
-![Game Cover](game-cover-generated.svg)
+<div align="center"><img width="453" height="277" style="border-radius: 30%;" alt="Screenshot 2026-03-06 193251" src="https://github.com/user-attachments/assets/1a682704-8924-4f62-a67d-06ccaab032d3" /></div>
+
 
 ---
 
