@@ -1,14 +1,12 @@
-# Full Throttle Offroad Truck
+
+<div align="center" style="margin: 40px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Throttle+Offroad+Ride"/>
+</div>
+
+
 
 <div align="center">
-  <img
-    width="453"
-    height="277"
-    style="border-radius: 18px;"
-    alt="Full Throttle Offroad Truck gameplay preview"
-    src="https://github.com/user-attachments/assets/1a682704-8924-4f62-a67d-06ccaab032d3"
-  />
-</div>
+  <img width="532" height="488" alt="IMG_20260307_091919" src="https://github.com/user-attachments/assets/4ce021be-7754-4df8-91f1-ca558ff96264" />
 
 <p align="center"><strong>Precision driving. Brutal terrain. Zero room for mistakes.</strong></p>
 
