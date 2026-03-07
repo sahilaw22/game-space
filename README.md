@@ -7,7 +7,7 @@
 
 <div align="center">
   <img width="532" height="488" alt="IMG_20260307_091919" src="https://github.com/user-attachments/assets/4ce021be-7754-4df8-91f1-ca558ff96264" />
-
+</div>
 <p align="center"><strong>Precision driving. Brutal terrain. Zero room for mistakes.</strong></p>
 
 <p align="center">
